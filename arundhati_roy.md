@@ -1,6 +1,6 @@
 ---
 title: Arundhati Roy: Literature, Activism, and the Critique of Power
-date: 1961-present # Born November 24, 1961
+date: 1961-present 
 tags:
   - Arundhati Roy
   - Author

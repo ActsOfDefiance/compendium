@@ -1,6 +1,6 @@
 ---
 title: The Industrial Workers of the World: Philosophy, Accomplishments, and Tactics
-date: 2025-04-13 # Using current date as no publication/accessed date provided in the text
+date: 1905 - present
 tags:
   - IWW
   - Wobblies
@@ -26,7 +26,6 @@ tags:
   - Daniel De Leon
   - Frank Little
   - Ben Fletcher
-keywords: [IWW, Wobblies, Industrial Workers of the World, One Big Union, industrial unionism, class struggle, direct action, abolition of the wage system, Lawrence Strike, free speech fights, labor history, radical unionism, anarcho-syndicalism, Little Red Songbook, AFL, CIO, William "Big Bill" Haywood, Eugene V. Debs, Elizabeth Gurley Flynn, Joe Hill, Lucy Parsons, Mother Jones, Daniel De Leon, Frank Little, Ben Fletcher] # Added notable people
 summary: An overview of the Industrial Workers of the World (IWW or Wobblies), detailing its 1905 founding, radical philosophy centered on class struggle and abolishing the wage system via "One Big Union," key accomplishments in organizing diverse and marginalized workers, distinctive tactics like direct action and free speech fights, historical challenges including government repression, and its enduring legacy and influence on the broader labor movement. Includes mention of key figures associated with the IWW.
 status: compiled # Assuming this is a compiled document based on sources
 ---

@@ -1,6 +1,6 @@
 ---
 title: The Life and Activism of Reies Tijerina: A Summary of Accomplishments, Tactics, Politics, and Philosophy
-date: 1926-2015 # Lifespan of Reies Tijerina
+date: 1926-2015 
 tags:
   - Reies Tijerina
   - Chicano Movement
@@ -18,7 +18,7 @@ tags:
   - Settler Colonialism
 keywords: [Reies López Tijerina, La Alianza, land grants, New Mexico, Chicano Movement, Tierra Amarilla courthouse raid, Echo Amphitheater occupation, Treaty of Guadalupe Hidalgo, civil rights, social justice, Indohispano, King Tiger, Poor People's Campaign, activism, direct action, land restitution]
 summary: An overview of the life (1926-2015) and activism of Reies López Tijerina, a pivotal figure in the Chicano Movement. Details his leadership of the New Mexico land-grant movement, the founding of La Alianza Federal de Mercedes, key actions like the Tierra Amarilla courthouse raid, his political philosophy rooted in the Treaty of Guadalupe Hidalgo and Chicano cultural preservation, and his significant but complex legacy.
-status: compiled # Assuming this is a compiled document based on sources
+status: compiled
 ---
 
 # **The Life and Activism of Reies Tijerina: A Summary of Accomplishments, Tactics, Politics, and Philosophy**
