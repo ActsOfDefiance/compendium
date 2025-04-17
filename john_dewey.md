@@ -1,6 +1,6 @@
 ---
 title: John Dewey: Philosophy, Education, Politics, and Activism
-date: 1859-1952 # Lifespan of John Dewey
+date: 1859-1952 
 tags:
   - John Dewey
   - Pragmatism
