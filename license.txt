@@ -1,6 +1,6 @@
 This work is licensed under CC BY-SA 4.0 
 
-https://creativecommons.org/licenses/by-sa/4.0/deed.en
+https://creativecommons.org/licenses/by-sa/4.0/
 
 
 In short, you may copy, reuse, and remix all work in the repository provided that your work is also licensed CC BY-SA 4.0 and you give us credit. AKA CopyLeft.
