@@ -94,3 +94,4 @@ In conclusion, Reies López Tijerina was a transformative figure whose leadershi
 24. The King of Adobe: Reies López Tijerina, Lost Prophet of the Chicano Movement by Lorena Oropeza (2019) \- Not Even Past, accessed April 8, 2025, [https://notevenpast.org/the-king-of-adobe-reies-lopez-tijerina-lost-prophet-of-the-chicano-movement-by-lorena-oropeza-2019/](https://notevenpast.org/the-king-of-adobe-reies-lopez-tijerina-lost-prophet-of-the-chicano-movement-by-lorena-oropeza-2019/)
 25. How the Chicano Movement Championed Mexican-American Identity and Fought for Change | HISTORY, accessed April 8, 2025, [https://www.history.com/articles/chicano-movement](https://www.history.com/articles/chicano-movement)
 26. Reies López Tijerina and the Fight for Land Rights \- YouTube, accessed April 8, 2025, [https://www.youtube.com/watch?v=WjTnJSyPq74](https://www.youtube.com/watch?v=WjTnJSyPq74)
+---
