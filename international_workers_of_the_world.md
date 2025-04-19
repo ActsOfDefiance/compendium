@@ -1,5 +1,5 @@
 ---
-title: The Industrial Workers of the World: Philosophy, Accomplishments, and Tactics
+title: Industrial Workers of the World
 date: 1905 - present
 tags:
   - IWW

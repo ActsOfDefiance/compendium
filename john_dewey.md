@@ -1,5 +1,5 @@
 ---
-title: John Dewey: Philosophy, Education, Politics, and Activism
+title: John Dewey
 date: 1859-1952 
 tags:
   - John Dewey
